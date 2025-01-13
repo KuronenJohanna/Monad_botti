@@ -1,2 +1,0 @@
-POST https://koodipahkina.monad.fi/api/game
-Authorization: Bearer 576e215f-2a97-4863-ae6d-0059f804bfec
