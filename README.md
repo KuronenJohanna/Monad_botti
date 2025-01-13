@@ -1,5 +1,5 @@
 # Monad_botti
-Monad Rekrypähkinä 2024
+Monad Rekrypähkinä 2025
 
 Tehtävänä oli luoda oma botti pelaamaan korttipeliä Monadin kehittämiä vastustajia vastaan.
 
